@@ -1,0 +1,1 @@
+https://github.com/joedixon/laravel-translation => this is the original repo. I forked it adding some extra features
